@@ -1,4 +1,4 @@
-## Hi there 👋
+My research focuses on understanding the conditions in which different social learning strategies are effective.
 
 <!--
 **nanda2502/nanda2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
